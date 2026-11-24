@@ -44,7 +44,7 @@
 
 | Domain | Systems, Hardware & Deployment Capabilities |
 | :--- | :--- |
-| **Web, Software & Marketing** | High-conversion web apps, RBAC admin dashboards, Android APKs &amp; digital marketing |
+| | **Web, Software & Marketing** | High-conversion web apps, RBAC admin dashboards, Android APKs & digital marketing |
 | **ISP, Routing & Switching** | ISP core setup, MikroTik BGP/PPPoE, Cisco switching, OLT/ONU &amp; captive Wi-Fi portals |
 | **Mobile Tower & Telecom** | BTS / RRU / BBU tower gear, microwave backhaul, GSM SIM gateways, IVR &amp; IPPBX |
 | **Enterprise Servers & Cloud** | Rack server deployment, virtualization (Proxmox/VMware), Linux/Ubuntu &amp; Cloudflare WAF |
